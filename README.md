@@ -1,4 +1,6 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+![lcy042000's GitHub stats](https://github-readme-stats.vercel.app/api?username=lcy042000&show_icons=true&theme=transparent)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 
 <!--
 **lcy042000/lcy042000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
