@@ -24,9 +24,9 @@ I am a <b>Front-end</b> developer who wants to create a convenient world by deve
 
   <text>email: 8410294@naver.com</text>
   
-  notion: <a href="https://www.notion.so/3a37182e32e8409e96b9fe9889c04113?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/></a>
+  <div style="display:flex; align-items:center;">notion: <a href="https://www.notion.so/3a37182e32e8409e96b9fe9889c04113?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/></a></div>
 
-  Blog: https://lcy042000.github.io/
+  Blog: <a href="https://lcy042000.github.io/" target="_blank"><img src="/leecy-logo.png" width="36"/></a>
 
   [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lcy042000)](https://solved.ac/lcy042000)
