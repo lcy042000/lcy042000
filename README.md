@@ -26,6 +26,8 @@ I am a <b>Front-end</b> developer who wants to create a convenient world by deve
   
   notion: <a href="https://www.notion.so/3a37182e32e8409e96b9fe9889c04113?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/></a>
 
+  Blog: https://lcy042000.github.io/
+
   [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lcy042000)](https://solved.ac/lcy042000)
 
